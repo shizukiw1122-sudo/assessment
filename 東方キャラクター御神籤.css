@@ -1,0 +1,27 @@
+body {
+    background-color: #DF454E;
+    color: #480f5f;
+    width: 600px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+button {
+    padding: 0px 10px 3px 10px;
+    background-color: rgb(144, 55, 227);
+    color: rgb(160, 45, 45);
+    font-weight: bold;
+    font-family: serif;
+    font-size: 15px;
+}
+input {
+    height: 20px;
+}
+h1 {
+    font-family: serif;
+    font-size: 60px;
+}
+h3 {
+    font-family: serif;
+    font-size: 30px;
+}
